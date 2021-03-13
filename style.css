@@ -1,0 +1,32 @@
+body {
+font-family: sans-serif;
+}
+
+header {
+background-color: #C55252;
+}
+
+header img {
+width: 275px;
+height: 180px;
+margin: 15px;
+}
+
+h1 {
+text-align: center;
+}
+
+footer img {
+margin-left: 215px;
+width: 400px;
+height: 250px;
+}
+
+footer a {
+text-decoration: none;
+color: #3338B6;
+}
+
+footer p {
+text-align: center;
+}
